@@ -1,0 +1,16 @@
+body{
+    background-color: blueviolet;
+    color: blue;
+}
+
+p{
+    background-attachment: fixed;
+    background-color: rgb(226, 226, 237);
+    font-size: medium;
+    color: rgb(20, 20, 20);
+}
+
+h1{
+    background-color: green;    
+    color: white;
+}
